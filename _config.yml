@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://douglasevaristo.github.io
+title: Awesome
+email: douglas.evaristo@gmail.com
+author: Douglas Evaristo
+description: My awesome new site
+paginate: 3
+google_analytics: 
